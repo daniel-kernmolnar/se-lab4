@@ -1,0 +1,3 @@
+# T11: primer üres, szekunder nem üres ALL módban
+GT4500,0,0,10,0
+TORPEDO,ALL

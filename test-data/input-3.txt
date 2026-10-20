@@ -1,0 +1,5 @@
+# T03: harmadik SINGLE visszatér a primer tárolóra
+GT4500,10,0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

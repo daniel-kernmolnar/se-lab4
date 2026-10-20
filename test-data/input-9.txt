@@ -1,0 +1,3 @@
+# T09: primer sikertelen, szekunder sikeres ALL módban
+GT4500,10,1,10,0
+TORPEDO,ALL

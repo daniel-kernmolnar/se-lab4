@@ -1,0 +1,3 @@
+# T07: mindkét tároló sikeresen tüzel ALL módban
+GT4500,10,0,10,0
+TORPEDO,ALL
