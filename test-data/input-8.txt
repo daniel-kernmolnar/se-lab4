@@ -1,0 +1,3 @@
+# T08: primer sikeres, szekunder sikertelen ALL módban
+GT4500,10,0,10,1
+TORPEDO,ALL

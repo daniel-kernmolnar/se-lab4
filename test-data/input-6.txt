@@ -1,0 +1,3 @@
+# T06: primer tároló biztosan hibázik SINGLE módban
+GT4500,10,1,10,0
+TORPEDO,SINGLE

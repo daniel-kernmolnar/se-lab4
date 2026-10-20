@@ -1,0 +1,3 @@
+# T01: első SINGLE tüzelés
+GT4500,10,0,10,0
+TORPEDO,SINGLE
